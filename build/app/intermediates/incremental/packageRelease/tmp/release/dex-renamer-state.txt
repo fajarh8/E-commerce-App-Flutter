@@ -1,0 +1,4 @@
+#Tue Jul 05 11:12:48 ICT 2022
+base.0=E\:\\UniversitasSebelasMaret\\Semester-4\\Pengembangan Aplikasi Bergerak\\Tugas Besar\\E-commerce-App-Flutter\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
